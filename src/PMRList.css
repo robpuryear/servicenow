@@ -1,0 +1,17 @@
+.pmr-list{
+    font-size: large;
+}
+.owner {
+    display: inline-block;
+    list-style-type: none;
+}
+.container {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+.paper {
+    padding: 1em;
+  }
+.labels {
+    list-style-type: none;
+}
